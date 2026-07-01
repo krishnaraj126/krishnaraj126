@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. Computer Science Graduate (Final Semester Result Awaiting)
+- 🎓 B.Sc. Computer Science | Final Semester Result Awaiting
 - 💻 Aspiring Software Test Engineer
 - 📚 Currently learning Software Testing & QA
 - 🐍 Learning Python for Test Automation
