@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 - Software Testing (Learning)
 - Manual Testing
@@ -44,4 +44,4 @@
 
 ---
 
-> "Learning something new every day."
+> "Quality is never an accident; it is the result of intelligent effort."
