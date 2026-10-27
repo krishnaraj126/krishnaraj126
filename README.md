@@ -1,8 +1,9 @@
+
 <div align="center">
 
 # KRISHNA RAJ
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=666666&center=true&vCenter=true&width=600&lines=Founder of Wavely Technologies+%7C+Student+Developer+%7C+Researcher" alt="Student | Founder of Wavely Technologies | Research">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Founder+of+Wavely+Technologies;Student+Developer;Computer+Science+Researcher" alt="Founder of Wavely Technologies | Student Developer | Computer Science Researcher" />
 
 </div>
 
@@ -10,11 +11,15 @@
 
 ## Education
 
-**M.Sc. Computer Science**
-Shiri Kumaran College of Arts and Science · Bharathiar University · Ongoing
+**M.Sc. Computer Science**  
+Shiri Kumaran College of Arts and Science  
+Bharathiar University · Ongoing
 
-**B.Sc. Computer Science - First Class with Distinction**
-Sri Krishna Adithya College of Arts and Science · Bharathiar University
+**B.Sc. Computer Science — First Class with Distinction**  
+Sri Krishna Adithya College of Arts and Science  
+Bharathiar University
+
+---
 
 ## Connect
 
